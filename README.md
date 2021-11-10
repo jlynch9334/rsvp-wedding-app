@@ -65,3 +65,4 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 This is a side project using React and Laravel to create an RSVP website to send invitations.
+This is a side project using React & Laravel to create an RSVP website for our wedding.
